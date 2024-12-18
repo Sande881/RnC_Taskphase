@@ -1,4 +1,4 @@
-24417852067343168
+24417852631391515
 Arduino_Nano
 Arduino_Nano
 
@@ -90948,8 +90948,8 @@ HC-SR04
 
 
 0
-0
-0
+4
+4
 Sensor_Humidity
 Sensirion_DFN-4-1EP_2x2mm_P1mm_EP0.7x1.6mm
 DFN, 4 Pin (https://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/0_Datasheets/Humidity/Sensirion_Humidity_Sensors_SHTC3_Datasheet.pdf)
@@ -97003,8 +97003,8 @@ TM1637
 
 
 0
-0
-0
+4
+4
 Transformer_SMD
 Pulse_P0926NL
 SMT Gate Drive Transformer, 1:1:1, 8.0x6.3x5.3mm (https://productfinder.pulseeng.com/products/datasheets/SPM2007_61.pdf)

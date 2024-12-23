@@ -2011,7 +2011,7 @@
 			)
 		)
 	)
-	(global_label "Power"
+	(global_label "Source"
 		(shape input)
 		(at 127 107.95 270)
 		(fields_autoplaced yes)
@@ -2023,7 +2023,7 @@
 		)
 		(uuid "91b01eaf-5315-4c94-b8a6-4210d5969e03")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 127 116.5595 90)
+			(at 127 117.4061 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2033,7 +2033,7 @@
 			)
 		)
 	)
-	(global_label "Power"
+	(global_label "Source"
 		(shape input)
 		(at 168.91 95.25 180)
 		(fields_autoplaced yes)
@@ -2045,7 +2045,7 @@
 		)
 		(uuid "a1203390-d5b1-4547-a081-cfe9441fbf22")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 160.3005 95.25 0)
+			(at 159.4539 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2143,7 +2143,7 @@
 			)
 		)
 	)
-	(global_label "Power"
+	(global_label "Source"
 		(shape input)
 		(at 87.63 91.44 0)
 		(fields_autoplaced yes)
@@ -2155,7 +2155,7 @@
 		)
 		(uuid "be0f5673-7c39-4cac-9d17-df67b2cbdb9b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 96.2395 91.44 0)
+			(at 97.0861 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
